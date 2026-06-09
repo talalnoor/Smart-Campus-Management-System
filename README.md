@@ -1,49 +1,45 @@
 # Smart Campus Management System
 
-## Overview
+## 📌 Description
+This is a simple Campus Management System built using Java.  
+It is part of my learning journey in Artificial Intelligence at COMSATS University Islamabad.
 
-Smart Campus Management System is a Java Swing desktop application developed as an Object-Oriented Programming project.
+---
 
-The application provides a graphical user interface for managing campus-related activities through an interactive dashboard.
+## 💡 Features
+- Student dashboard interface
+- Simple campus management system
+- Basic navigation system
+- Clean Java Swing GUI
 
-## Features
+---
 
-* Java Swing graphical user interface
-* Campus dashboard interface
-* Student and campus management functionality
-* Object-Oriented Programming concepts implementation
-* Desktop-based application
+## 🛠️ Technologies Used
+- Java  
+- Java Swing (GUI)
 
-## Technologies Used
+---
+## 📸 Screenshots
 
-* Java
-* Java Swing
-* Object-Oriented Programming (OOP)
+### Login Page
+![Login Screenshot](log.png)
 
-## Project Structure
+### Dashboard
+![Dashboard Screenshot](dash.png)
 
-CampusDashboard.java
+### Student Module
+![Student Screenshot](student.png)
 
-## How to Run
+### Course Module
+![Course Screenshot](cou.png)
+---
 
-1. Download the source code.
-2. Open the project in your Java IDE.
-3. Compile and run `CampusDashboard.java`.
+## 🚀 How to Run
+1. Open project in any Java IDE (IntelliJ / Eclipse / NetBeans)
+2. Compile Java files
+3. Run the main class
 
-## Learning Outcomes
+---
 
-Through this project, I gained practical experience in:
-
-* Java programming
-* GUI development using Swing
-* Object-Oriented Programming concepts
-* Event handling
-* Desktop application development
-
-## Author
-
-**Talal Noor**
-
-Artificial Intelligence Student
-
-COMSATS University Islamabad
+## 👨‍💻 Author
+Talal Noor
