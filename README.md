@@ -1,7 +1,7 @@
 # Smart Campus Management System
 
 ## 📌 Description
-This is a simple Campus Management System built using Java.  
+This is a simple Campus Management System built using Java.
 It is part of my learning journey in Artificial Intelligence at COMSATS University Islamabad.
 
 ---
